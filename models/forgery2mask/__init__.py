@@ -1,0 +1,1 @@
+from .moe_forgery2mask import Forgery2Mask
