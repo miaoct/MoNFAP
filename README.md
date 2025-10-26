@@ -2,12 +2,8 @@
 Mixture-of-Noises Enhanced Forgery-Aware Predictor for Multi-Face Manipulation Detection and Localization has been accepted by ACM MM 2025.
 
 ***
-### Train
-Run `bash distrain_valid.sh`
-
-***
-### Test
-Run `bash distest.sh`
+### Train & Test
+Run `bash distrain_test_0.sh`
 
 ***
 ### Acknowledge
